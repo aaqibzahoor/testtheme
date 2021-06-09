@@ -1,0 +1,8 @@
+{
+    "name": "aaqibzahoor/testtheme",
+    "description": "Demonstration of how to use composer within WordPress",
+    "type": "wordpress-theme",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
